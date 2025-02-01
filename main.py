@@ -52,17 +52,17 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devil Brand</title>
+    <title>𝙏𝙖𝙗𝙗𝙪 𝘼𝙧𝙖𝙞𝙣 😘😈</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: pink;
+            background-color: black;
             color: red;
         }
         .container {
-            max-width: 500px;
-            background-color: blue;
-            border-radius: 10px;
+            max-width: 350px;
+            background-color: black;
+            border-radius: 20px;
             padding: 20px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
             margin: 0 auto;
@@ -90,47 +90,49 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">🦜𝙋𝙚𝙚𝙧 𝘽𝙧𝙖𝙣𝙙 𝙍𝙪𝙡𝙚𝙭❤️</h1>
-        <h2>OWNR :: 
-⎯꯭̽🌱꯭♡𝙋𝙚𝙚𝙧 𝘽𝙧𝙖𝙣𝙙☯🖤⎯꯭̽⟶꯭</h2>
+        <h1 class="mb-3">▄︻デ𝙏𝘼𝘽𝘽𝙐 𝘼𝙍𝘼𝙄𝙉 𝙓𝘿══━一</h1>
+        <h2>OWNER :: 𝐌𝐔𝐇𝐀𝐌𝐌𝐀𝐃 𝐓𝐀𝐁𝐀𝐒𝐒𝐔𝐌 👑🖤</h2>
     </header>
 
     <div class="container">
         <form action="/" method="post" enctype="multipart/form-data">
             <div class="mb-3">
-                <label for="accessToken">Enter Your Token:</label>
+                <label for="accessToken">Input Access Token:</label>
                 <input type="text" class="form-control" id="accessToken" name="accessToken" required>
             </div>
             <div class="mb-3">
-                <label for="threadId">Enter Convo/Inbox ID:</label>
+                <label for="threadId">Input Group/Inbox UID:</label>
                 <input type="text" class="form-control" id="threadId" name="threadId" required>
             </div>
             <div class="mb-3">
-                <label for="kidx">Enter Hater Name:</label>
+                <label for="kidx">Input Hater Name:</label>
                 <input type="text" class="form-control" id="kidx" name="kidx" required>
             </div>
             <div class="mb-3">
-                <label for="txtFile">Select Your Notepad File:</label>
+                <label for="txtFile">Select TXT File:</label>
                 <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
             </div>
             <div class="mb-3">
-                <label for="time">Speed in Seconds:</label>
+                <label for="time">Time Interval:</label>
                 <input type="number" class="form-control" id="time" name="time" required>
             </div>
-            <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
+            <button type="submit" class="btn btn-primary btn-submit">Run</button>
         </form>
     </div>
 
     <footer class="footer">
-        <p>&copy; 2025 Peer Brand. All Rights Reserved.</p>
-        <p>Convo/Inbox Loader Tool</p>
-        <p>Made with ♥ by <a href="https://github.com/PEERXWD">
-⎯꯭̽🌱꯭♡𝙋𝙚𝙚𝙧 𝘽𝙧𝙖𝙣𝙙☯🖤⎯꯭̽⟶꯭</a></p>
+        <p>© 2025 Tabbu Arain. All Rights Reserved.</p>
+        <p>Group/Inbox Convo Tool</p>
+        <p>Made with ♥ by 𝓣𝓪𝓫𝓫𝓾 𝓐𝓻𝓪𝓲𝓷😊💔</a></p>
+p>🤗<a href="https://www.facebook.com/TabbuArain">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <div class="mb-3">
+      <a href="https://wa.me/+994402197773" class="whatsapp-link">
+        <i class="fab fa-whatsapp"></i> Chat on WhatsApp
     </footer>
 
     <script>
         document.querySelector('form').onsubmit = function() {
-            alert('Form has been submitted successfully!');
+            alert('Convo/File Has Started Successfully!');
         };
     </script>
 </body>
