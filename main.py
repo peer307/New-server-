@@ -90,9 +90,9 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️WARIOUR RULEX❤️</h1>
+        <h1 class="mb-3">🦜𝙋𝙚𝙚𝙧 𝘽𝙧𝙖𝙣𝙙 𝙍𝙪𝙡𝙚𝙭❤️</h1>
         <h2>OWNR :: 
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</h2>
+⎯꯭̽🌱꯭♡𝙋𝙚𝙚𝙧 𝘽𝙧𝙖𝙣𝙙☯🖤⎯꯭̽⟶꯭</h2>
     </header>
 
     <div class="container">
@@ -122,10 +122,10 @@ def send_message():
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Devil Brand. All Rights Reserved.</p>
+        <p>&copy; 2025 Peer Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with ♥ by <a href="https://github.com/DEVILXWD">
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</a></p>
+        <p>Made with ♥ by <a href="https://github.com/PEERXWD">
+⎯꯭̽🌱꯭♡𝙋𝙚𝙚𝙧 𝘽𝙧𝙖𝙣𝙙☯🖤⎯꯭̽⟶꯭</a></p>
     </footer>
 
     <script>
